@@ -1,10 +1,8 @@
 ---
 home: true
-heroText: Peng Blog
-tagline: 一个被程序员生涯耽误的优秀厨子
-heroTextStyle: {
-  color: '#fff'
-}
+heroText: 我爱南京
+tagline: 你离开了南京，从此没人和我说话
+heroTextStyle: { color: "#fff" }
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -17,5 +15,4 @@ heroTextStyle: {
 # heroImage: ''
 
 isShowTitleInHome: false
-
 ---
