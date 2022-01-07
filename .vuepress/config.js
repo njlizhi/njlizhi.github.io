@@ -29,7 +29,7 @@ module.exports = {
     themeConfig: {
         mode: "dark",
         noFoundPageByTencent: true,
-        logo: "http://img.yzcdn.cn/upload_files/2018/04/28/Fo1NEvGWCYaruV-mSgpgsvrlK6xb.png",
+        logo: "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fawb.img.xmtbang.com%2Fimg%2Fuploadnew%2F201512%2F27%2F7ebac7b25b864674ada7bc2d279c22e1.jpg&refer=http%3A%2F%2Fawb.img.xmtbang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644176632&t=33eaacd1cb8eabc0be1a2354147e4b02",
         valineConfig: {
             appId: "e6ojaBbYmQvJLNWeBouhonP6-gzGzoHsz", // your appId
             appKey: "050ScrJoJUW37QqwVwzSmKoX", // your appKey
@@ -165,7 +165,7 @@ module.exports = {
         lastUpdated: "Last Updated",
         author: "njlizhi",
         authorAvatar:
-            "http://img.yzcdn.cn/upload_files/2018/04/28/Fo1NEvGWCYaruV-mSgpgsvrlK6xb.png",
+            "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fawb.img.xmtbang.com%2Fimg%2Fuploadnew%2F201512%2F27%2F7ebac7b25b864674ada7bc2d279c22e1.jpg&refer=http%3A%2F%2Fawb.img.xmtbang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644176632&t=33eaacd1cb8eabc0be1a2354147e4b02",
         record: "鄂ICP备18004957号-2",
         startYear: "2018",
     },
