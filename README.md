@@ -1,2 +1,0 @@
-# njlizhi.github.io
-eo
