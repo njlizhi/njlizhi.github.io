@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Peng Blog
-tagline: 一个被程序员生涯耽误的优秀厨子
+tagline: 一个被程序员生涯耽误的段子手
 heroTextStyle: {
   color: '#fff'
 }
